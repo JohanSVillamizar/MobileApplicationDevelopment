@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="OperatorsColor">#FD8501</color>
+    <color name="ParenthesisColor">#01C5C3</color>
+    <color name="DeleteAllcolor">#DD1D1A</color>
+    <color name="BackspaceColor">#1F9391</color>
+    <color name="SkyBlue">#D3DDED</color>
+    <color name="light_gray">#F5F5F5</color>
+</resources>
